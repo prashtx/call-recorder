@@ -1,0 +1,16 @@
+{
+  "name": "call-recorder",
+  "version": "0.0.0",
+  "description": "Record conference calls",
+  "main": "index.js",
+  "repository": "",
+  "author": "Prashant Singh",
+  "license": "BSD",
+  "dependencies": {
+    "twilio": "~1.5.0",
+    "request": "~2.33.0",
+    "ejs": "~0.8.5",
+    "express": "~3.4.8",
+    "timezone": "0.0.24"
+  }
+}
